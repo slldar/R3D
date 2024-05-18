@@ -52,7 +52,6 @@ pymediainfo
 pyquery
 pyrogram
 pySmartDL
-pytube==15.0.0
 python-barcode
 python-dotenv
 pyTelegramBotAPI==3.7.7
